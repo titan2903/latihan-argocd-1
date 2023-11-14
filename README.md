@@ -1,0 +1,1 @@
+# latihan-argocd-1
