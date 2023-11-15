@@ -4,3 +4,5 @@ metadata:
   name: product-service-configmap
 data:
   key: value
+  appname: product-app
+  version: v1.0
